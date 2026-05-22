@@ -7,14 +7,10 @@
     "sourceMap": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-
-    /* Longgar supaya deploy jalan */
     "strict": false,
     "noImplicitAny": false,
     "strictNullChecks": false,
     "skipLibCheck": true,
-
-    /* Tambahan opsional */
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
   },
